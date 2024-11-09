@@ -61,7 +61,7 @@ def savefile():
     f.close()
 
 def online_help():
-    webbrowser.open('https://piware.w3spaces.com')
+    webbrowser.open('https://computerware.github.io/tuxon/')
 # Files Menu Bar
 file = Menu(menubar, tearoff = 0)
 menubar.add_cascade(label ='File', menu = file)
